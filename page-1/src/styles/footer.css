@@ -1,0 +1,31 @@
+.footer {
+    background-color: #f9f9f9;  /* Cor de fundo clara, para se destacar do conteúdo principal */
+    color: #333;                /* Cor do texto em um tom escuro para boa legibilidade */
+    padding: 40px 20px;         /* Espaçamento interno */
+    text-align: center;         /* Centraliza o conteúdo */
+    border-top: 1px solid #ddd; /* Linha suave no topo do footer */
+    margin-top: 40px;           /* Espaçamento superior */
+  }
+  
+  .footer-content p {
+    margin: 0;                  /* Remove margens padrão */
+    font-size: 14px;             /* Tamanho de fonte um pouco menor */
+    color: #666;                /* Cor do texto para o copyright */
+  }
+  
+  .social-links {
+    margin-top: 20px;           /* Espaço entre o texto e os links sociais */
+  }
+  
+  .social-links a {
+    color: #3498db;             /* Cor dos links para um azul suave */
+    text-decoration: none;      /* Remove o sublinhado dos links */
+    margin: 0 15px;             /* Espaçamento entre os links */
+    font-size: 16px;            /* Tamanho de fonte um pouco maior */
+  }
+  
+  .social-links a:hover {
+    color: #2980b9;             /* Mudança de cor ao passar o mouse */
+    text-decoration: underline; /* Sublinha os links quando o mouse passa por cima */
+  }
+  

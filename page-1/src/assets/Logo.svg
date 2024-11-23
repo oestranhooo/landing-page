@@ -1,0 +1,36 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg127217" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata127223">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs127221"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-c2833934-2d4d-48ce-9626-6e3b052c94f5">
+    <stop id="stop127198" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop127200" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-c2833934-2d4d-48ce-9626-6e3b052c94f5">
+    <stop id="stop127203" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop127205" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop127207" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" x="0" y="0" style="display: none;"></image>
+      <g id="slogan" style="font-style:oblique;font-weight:300;font-size:32px;line-height:1;font-family:'Nunito Sans';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <path id="path127226" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 334.88506,-21.6 q 0,7.416 8.928,12.528 8.928,5.04 21.888,5.04 12.888,0 21.024,-2.808 9.792,-3.384 9.792,-9.936 0,-6.84 -8.352,-9.864 -4.752,-1.728 -18.504,-3.6 l -7.128,-1.008 q -13.032,-1.872 -17.28,-3.312 -6.336,-2.16 -6.336,-6.264 0,-3.888 7.488,-6.336 7.488,-2.448 19.296,-2.448 10.872,0 18.792,4.032 7.992,4.032 7.992,9.576 v 0 q 0,2.016 2.016,2.016 2.016,0 2.016,-2.016 v 0 q 0,-7.416 -8.928,-12.456 -8.928,-5.112 -21.888,-5.112 -12.888,0 -21.024,2.808 -9.792,3.384 -9.792,9.936 0,6.84 8.712,9.936 4.176,1.44 18.432,3.6 l 3.384,0.504 3.672,0.504 q 13.176,1.8 17.496,3.312 5.904,2.016 5.904,6.192 0,3.888 -7.488,6.336 -7.488,2.448 -19.296,2.448 -10.872,0 -18.864,-4.032 -7.92,-4.032 -7.92,-9.576 v 0 q 0,-2.016 -2.016,-2.016 -2.016,0 -2.016,2.016 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#efae94" stroke="#efae94" transform="translate(0 328.16728) translate(214.98277625000003 14.109440000000006) scale(1.67) translate(-334.88506 53.568)"></path>
+        <path id="path127228" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 460.55769,-52.416 h -57.6 q -2.016,0 -2.016,2.016 0,2.016 2.016,2.016 h 26.784 V -7.2 q 0,2.016 2.016,2.016 2.016,0 2.016,-2.016 v -41.184 h 26.784 q 2.016,0 2.016,-2.016 0,-2.016 -2.016,-2.016 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#eba190" stroke="#eba190" transform="translate(0 328.16728) translate(325.29734835 16.033280000000005) scale(1.67) translate(-400.94169 52.416)"></path>
+        <path id="path127230" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 542.96056,-8.496 -38.736,-45 -37.512,45 q -0.432,0.504 -0.432,1.224 0,2.088 2.088,2.088 0.864,0 1.44,-0.72 v 0 l 11.376,-13.68 h 46.944 l 11.808,13.68 q 0.648,0.72 1.584,0.72 1.944,0 1.944,-1.944 0,-0.792 -0.504,-1.368 z m -58.392,-15.12 19.728,-23.688 20.448,23.688 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#e6948c" stroke="#e6948c" transform="translate(0 328.16728) translate(434.41326124999995 14.229680000000002) scale(1.67) translate(-466.28056 53.496)"></path>
+        <path id="path127232" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 609.96219,-8.856 -16.128,-10.728 h 0.576 q 6.84,0 11.592,-4.824 4.824,-4.824 4.824,-11.592 0,-6.84 -4.824,-11.592 -4.752,-4.824 -11.592,-4.824 h -45.216 V -7.2 q 0,2.016 2.016,2.016 2.016,0 2.016,-2.016 v -12.384 h 33.408 l 21.096,14.04 q 0.504,0.36 1.08,0.36 1.08,0 1.656,-0.936 0.36,-0.504 0.36,-1.08 0,-1.08 -0.864,-1.656 z m -56.736,-39.528 h 41.184 q 5.112,0 8.712,3.672 3.672,3.6 3.672,8.712 0,5.112 -3.672,8.784 -3.6,3.6 -8.712,3.6 h -41.184 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#e28887" stroke="#e28887" transform="translate(0 328.16728) translate(572.87902335 16.033280000000005) scale(1.67) translate(-549.19419 52.416)"></path>
+        <path id="path127234" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 617.19481,-49.968 v 43.2 q 0,1.944 1.944,1.944 2.016,0 2.016,-1.944 v 0 -43.2 q 0,-2.016 -2.016,-2.016 -1.944,0 -1.944,2.016 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#dd7b83" stroke="#dd7b83" transform="translate(0 328.16728) translate(686.4400587499999 16.754719999999992) scale(1.67) translate(-617.19481 51.984)"></path>
+        <path id="path127236" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:Salaryman;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 658.62631,-53.208 q -13.104,0 -22.464,7.128 -9.576,7.272 -9.576,17.712 0,10.44 9.576,17.712 9.288,7.056 22.464,7.056 13.176,0 22.392,-7.056 9.576,-7.344 9.576,-17.712 0,-10.368 -9.576,-17.712 -9.36,-7.128 -22.392,-7.128 z m 28.008,24.84 q 0,8.568 -8.208,14.688 -8.208,6.048 -19.8,6.048 -11.592,0 -19.8,-6.048 -8.208,-6.12 -8.208,-14.688 0,-8.64 8.208,-14.688 8.208,-6.12 19.8,-6.12 11.592,0 19.8,6.12 8.208,6.048 8.208,14.688 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#d96e7f" stroke="#d96e7f" transform="translate(0 328.16728) translate(702.1238637499999 14.710639999999998) scale(1.67) translate(-626.58631 53.208)"></path>
+      </g>
+      <image xlink:href="" id="icon" x="0" y="0" style="display: none;"></image>
+    </g>
+  </g>
+</svg>

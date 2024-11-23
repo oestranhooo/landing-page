@@ -1,0 +1,105 @@
+/* Estilo para o container do formulário */
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f9;
+    padding: 20px;
+  }
+  
+  /* Estilo do formulário */
+  .contact-form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    padding: 40px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  /* Estilo do título do formulário */
+  .contact-form h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form h3 {
+    font-size: 1.25rem;
+    color: #2980b9;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form p {
+    font-size: 1rem;
+    color: #7f8c8d;
+    margin-bottom: 30px;
+  }
+  
+  /* Estilo para os labels */
+  .contact-form label {
+    display: block;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #34495e;
+    margin-bottom: 8px;
+    text-align: left;
+  }
+  
+  /* Estilo para os campos de entrada */
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 1rem;
+    color: #34495e;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+  }
+  
+  .contact-form input:focus,
+  .contact-form textarea:focus {
+    outline: none;
+    border-color: #2980b9;
+    background-color: #fff;
+  }
+  
+  /* Estilo para o botão de envio */
+  .contact-form button {
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact-form button:hover {
+    background-color: #3498db;
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .contact-form {
+      padding: 30px;
+    }
+  
+    .contact-form h2 {
+      font-size: 1.75rem;
+    }
+  
+    .contact-form h3 {
+      font-size: 1.125rem;
+    }
+  }
+  
